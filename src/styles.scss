@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+
+.chartWrapper {
+  height:300px;
+  width:300px;
+}
+
+
+.chart-legend .legend-title {
+  position: relative;
+  bottom: 167px;
+  width: 142px;
+  left: 46px;
+  height: 100%;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 13px;
+}
+
+.chart-legend .legend-wrap {
+  position: relative;
+  bottom: 75px;
+}

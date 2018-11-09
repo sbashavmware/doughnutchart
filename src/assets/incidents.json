@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Missing Incident",
+    "value": 5
+  },
+  {
+    "name": "Medical Incident",
+    "value": 3
+  },
+  {
+    "name": "Transport Incident",
+    "value": 3
+  },
+  {
+    "name": "Near Miss Incident",
+    "value": 2
+  },
+  {
+    "name": "Employee Incident",
+    "value": 1
+  },
+  {
+    "name": "Other Incident",
+    "value": 1
+  },
+  {
+    "name": "Approvals",
+    "value": 2
+  }
+]
